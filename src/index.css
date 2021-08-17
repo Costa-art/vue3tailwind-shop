@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+   .h-1000 {
+        height: 1064px;
+        width: 1190px;
+   }
+}
+
+@layer utilities {
+    .btn-card {
+     width: 131.9px;
+      height: 32px;
+      padding: 6.4px 0 15px;
+      border-radius: 5px;
+      background-color:grey;
+		
+		
+}
+ }
+
+ @layer utilities {
+    .line-1 {
+		
+		height: 1px;
+		color: #f6f6f6;
+		
+ }
+
+ }
+ @layer utilities {
+    .btn-hd {
+		
+  width: 150px;
+  height: 50px;
+  flex-grow: 0;
+  margin: 3px 38px 35px 175px;
+  padding: 12px 23px 13px;
+  border-radius: 30px;
+  background-color: #fe5f1e;
+}
+ }
+
+ @layer utilities {
+  .button-bg {
+  
+  border-radius: 20px;
+  background-color: #f9f9f9;
+
+
+
+      border-radius: 30px;
+      font-weight: bold;
+      padding: 10px 24px
+}
+}
+
+@layer utilities {
+  .line-1 {
+  
+  height: 1px;
+  color: #f6f6f6;
+  
+}
+
+}
+
+ 
